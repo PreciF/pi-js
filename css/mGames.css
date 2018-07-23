@@ -1,0 +1,14 @@
+
+#gamesList {
+  width: 100%;
+  height: 100%;
+}
+
+.listThumb {
+  width: 66px;
+  height: 65px;
+}
+
+td {
+  display: flex
+}
